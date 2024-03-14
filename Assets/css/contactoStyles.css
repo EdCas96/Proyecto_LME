@@ -18,7 +18,7 @@
 
 body 
 {
-  background-image: url('img/celu.jpg');
+  background-image: url('celu.jpg');
   background-size: 100% 100%; /* Cubre todo el fondo, tanto horizontal como verticalmente */
   background-position: center; /* Centra la imagen */
   background-repeat: no-repeat;
