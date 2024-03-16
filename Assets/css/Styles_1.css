@@ -26,27 +26,27 @@ body {
   }
   
   .welcome h3 {
-    animation-delay: 1s; /* Retrasa la aparición del subtítulo */
+    animation-delay: 0.5s; /* Retrasa la aparición del subtítulo */
   }
   
   .welcome ul li:nth-child(1) {
-    animation-delay: 1.5s; /* Retrasa la aparición del primer elemento de la lista */
+    animation-delay: 0.6s; /* Retrasa la aparición del primer elemento de la lista */
   }
   
   .welcome ul li:nth-child(2) {
-    animation-delay: 2s; /* Retrasa la aparición del segundo elemento de la lista */
+    animation-delay: 0.7s; /* Retrasa la aparición del segundo elemento de la lista */
   }
   
   .welcome ul li:nth-child(3) {
-    animation-delay: 2.5s; /* Retrasa la aparición del tercer elemento de la lista */
+    animation-delay: 0.8s; /* Retrasa la aparición del tercer elemento de la lista */
   }
   
   .welcome ul li:nth-child(4) {
-    animation-delay: 3s; /* Retrasa la aparición del cuarto elemento de la lista */
+    animation-delay: 0.9s; /* Retrasa la aparición del cuarto elemento de la lista */
   }
   
   .welcome ul li:nth-child(5) {
-    animation-delay: 3.5s; /* Retrasa la aparición del quinto elemento de la lista */
+    animation-delay: 1s; /* Retrasa la aparición del quinto elemento de la lista */
   }
   
   
